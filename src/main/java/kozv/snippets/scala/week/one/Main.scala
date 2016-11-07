@@ -1,4 +1,4 @@
-package recfun
+package kozv.snippets.scala.week.one
 
 import scala.annotation.tailrec
 
